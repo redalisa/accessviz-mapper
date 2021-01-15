@@ -1,0 +1,14 @@
+voila
+folium
+pyproj
+geopandas
+matplotlib
+glob
+os
+numpy
+ipywidgets
+contextily
+mapclassify
+osmnx
+networkx
+shapely
