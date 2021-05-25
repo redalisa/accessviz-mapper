@@ -18,7 +18,7 @@
 - numpy
 - contextily
 - mapclassify
-- osmnx
+- osmnx `conda install -c conda-forge osmnx`
 - networkx
 - shapely
 
