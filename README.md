@@ -59,6 +59,6 @@ This line will start a localhost with the Desktop App/Dashboard.
 ![Explorer](png/explorer.png)
 
 ### References:
-- [Helsinki Region Travel Time Matrix Blog] (https://blogs.helsinki.fi/accessibility/helsinki-region-travel-time-matrix/)
-- [Voila Documentation] (https://voila.readthedocs.io/en/stable/index.html)
-- [Ipywidgets Documentation] (https://ipywidgets.readthedocs.io/en/stable/index.html)
+- [Helsinki Region Travel Time Matrix Blog](https://blogs.helsinki.fi/accessibility/helsinki-region-travel-time-matrix/)
+- [Voila Documentation](https://voila.readthedocs.io/en/stable/index.html)
+- [Ipywidgets Documentation](https://ipywidgets.readthedocs.io/en/stable/index.html)
