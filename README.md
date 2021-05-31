@@ -34,7 +34,7 @@ Default data contains Travel Times data with code: `5816xxx`, `5879xxx`, `5916xx
 As a recommendation, use the sample data already in the repository. As an example, some existent YKR IDs are: `5963655`, `59925860`, `5933038`, `5816105`.
 
 ### Input data and note to download:
-- The whole data can be downloaded from here [Travel Time Matrix of Helsinki Region 2018](http://www.helsinki.fi/science/accessibility/data/MetropAccess-matka-aikamatriisi/MetropAccess_YKR_grid.zip)
+- The whole data can be downloaded from here [Travel Time Matrix of Helsinki Region 2018](https://blogs.helsinki.fi/accessibility/helsinki-region-travel-time-matrix-2018/)
 
 **NOTE**: After downloading the Repository in the Local Disk, unzip the data and include all the folders i.e. ***5963xxx*** in the `data/HelsinkiTravelTimeMatrix2018` folder.
 
