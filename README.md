@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/329887628.svg)](https://zenodo.org/badge/latestdoi/329887628)
+
 ## AccessViz Mapper
 
 ## Topic: 
