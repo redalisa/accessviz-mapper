@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/329887628.svg)](https://zenodo.org/badge/latestdoi/329887628)
 
 ## AccessViz Mapper
-
+![File Finder](png/gif-animation.gif)
 ## Topic: 
 **AccessViz Mapper** - A handy tool for mapping Accessibility Travel Times by different Transport Modes at Helsinki Region
 
