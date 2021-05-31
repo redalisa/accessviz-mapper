@@ -9,7 +9,7 @@
 **AccessViz Mapper** is a tool which can be deployed as a web app/desktop app. In this repository, the code can be found in a notebook which is rendered using Voila. Follow the instructions to make it work at your local disk by downloading the Repository. 
 
 ### Guided tutorial:
-![How to make travel time (accessibility) maps with accessviz-mapper](https://towardsdatascience.com/travel-time-accessibility-maps-with-the-accessviz-mapper-tool-in-helsinki-7be23eadd4b0)
+[How to make travel time (accessibility) maps with accessviz-mapper](https://towardsdatascience.com/travel-time-accessibility-maps-with-the-accessviz-mapper-tool-in-helsinki-7be23eadd4b0)
 
 ### Packages needed
 - voila `conda install -c conda-forge voila`
