@@ -31,7 +31,7 @@
 
 ### Default data:
 Default data contains Travel Times data with code: `5816xxx`, `5879xxx`, `5916xxx`, `5925xxx`, `5933xxx`, `5952xxx`, `5963xxx`.
-As a recommendation, use the sample data already in the repository. As an example, some existent YKR IDs are: `5963655`, `59925860`, `5933038`, `5816105`.
+As a recommendation, use the sample data already in the repository. As an example, some existent YKR IDs are: `5963655`, `5933038`, `5816105`.
 
 ### Input data and note to download:
 - The whole data can be downloaded from here [Travel Time Matrix of Helsinki Region 2018](https://blogs.helsinki.fi/accessibility/helsinki-region-travel-time-matrix-2018/)
